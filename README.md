@@ -9,7 +9,7 @@ python run.py
 ```
 
 ``
-You can use /help, /motivation commands and laos try to send a photo :)
+You can use /help, /motivation commands and also try to send a photo :)
 ``
 
 Then just add @weenlambo_bot to your test chat in Telegram.
