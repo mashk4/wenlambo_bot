@@ -4,6 +4,8 @@ Just add it to you group and send /motivation to get a bit of motivation for the
 
 ## Setup (for macOS)
 ```
+git clone git@github.com:mashk4/wenlambo_bot.git
+cd wenlambo_bot
 pip install -r requirements.txt
 python run.py
 ```
